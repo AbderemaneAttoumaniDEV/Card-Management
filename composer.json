@@ -1,0 +1,19 @@
+{
+    "name": "abderemane/poo",
+    "description": "Une petite application qui permet de créer des cartes et de les visualiser",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abderemane\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdérémane Attoumani",
+            "email": "attoumani.abderemane@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

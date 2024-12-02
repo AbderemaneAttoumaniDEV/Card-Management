@@ -1,0 +1,20 @@
+# Fichiers de dépendances PHP
+/vendor/
+
+# Fichiers de configuration de l'IDE
+/.idea/
+/.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de session et de cache PHP
+/tmp/
+/sessions/
+
+# Fichiers sensibles
+.env
+
+# Fichiers générés
+composer.lock
